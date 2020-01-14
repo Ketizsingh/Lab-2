@@ -1,5 +1,5 @@
 # Lab 2
-##Members
+#Members
 - Gurpreet Singh
 - Mohit Rawal
 - Nikhil Rawal
